@@ -1,0 +1,21 @@
+/*
+---- Clear the queue ----
+
+cin.ignore(numeric_limits<streamsize>::max(),'\n');
+
+#include <iostream>
+#include <ios>
+#include <limits>
+
+---- Base Code ----
+
+#include <iostream>
+using namespace std;
+
+int main () {
+  cout << "Hello" << endl;
+  return 0;
+}
+
+
+*/
